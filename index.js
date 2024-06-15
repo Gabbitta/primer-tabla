@@ -16,7 +16,6 @@ switch (option){
     case "1" :
         alert('Usted va a apostar al caballo Thor');
         break;
-        alert( 'empiece a apostar')
         case "2" :
         alert('Usted va a apostar al caballo Thunder');
         break;
